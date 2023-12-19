@@ -1,0 +1,85 @@
+.first {
+    background-image: url("./images/blackbaack.jpg");
+   padding-top: 200px;
+}
+
+.display-5{
+    color: whitesmoke !important;
+     font-family: Georgia, 'Times New Roman', Times, serif; 
+}
+
+.lead{
+    font-family:"Montserrat", sans-serif ;
+    font-weight: bold;
+    color:#66bfbf ;
+    font-size: 25px;
+}
+
+.span{
+    color: whitesmoke;
+}
+
+img{
+   border-radius: 50%;
+}
+
+.text-body-emphasis{   
+    color:#66bfbf !important;
+   font-size: 50px;
+}
+
+.may{
+    text-align: center;
+    height: 80vh;
+    margin-top: 150px;
+}
+
+.june{
+    text-align: center;
+    height: 80vh;
+    margin-bottom: 0px !important;
+   
+
+}
+
+.sec{  
+    font-size: 20px;
+    font-family:"Merriweather", serif;
+    width: 30%;
+    margin: auto;
+    font-size: 30px;
+}     
+
+.btn {
+    background: #11cdd4;
+    background-image: -webkit-linear-gradient(top, #11cdd4, #11999e);
+    background-image: -moz-linear-gradient(top, #11cdd4, #11999e);
+    background-image: -ms-linear-gradient(top, #11cdd4, #11999e);
+    background-image: -o-linear-gradient(top, #11cdd4, #11999e);
+    background-image: linear-gradient(to bottom, #11cdd4, #11999e);
+    -webkit-border-radius: 8;
+    -moz-border-radius: 8;
+    border-radius: 8px;
+    font-family: "Montserrat", sans-serif;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+
+  .bottom-container {
+    background-color: #66bfbf;
+    padding: 50px 0 20px;
+    text-align: center;
+}
+
+.footer-link{ 
+    font-family: "Montserrat", sans-serif;
+    margin: 20px 30px;
+    text-decoration: none;
+    font-size: 20px;
+}
+
+.copyright{
+   margin-top: 10px;
+}
